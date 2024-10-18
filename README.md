@@ -18,11 +18,11 @@ I am a passionate full-stack developer and data enthusiast, currently pursuing m
 
 ### 🔥 Featured Projects
 
-#### 🎯 [Trigger Bot](https://github.com/NuvaGit/trigger-bot)
+#### 🎯 [Trigger Bot](https://github.com/NuvaGit/triggerbot)
 
 An automated bot that scans for specific pixel colors on the screen and triggers mouse clicks when the target color is detected. The bot includes a hotkey to toggle its activation and provides sound feedback when toggled on or off.
 
-#### 🗝️ [Quest Game (Java Swing)](https://github.com/NuvaGit/quest-game)
+#### 🗝️ [Quest Game (Java Swing)](https://github.com/NuvaGit/QuestGame)
 
 A fully interactive GUI-based game built with Java Swing, where players must navigate through challenges to find a key and unlock a chest. Developed using object-oriented programming principles to ensure scalability and modularity.
 
@@ -30,9 +30,9 @@ A fully interactive GUI-based game built with Java Swing, where players must nav
 
 ### 📚 Other Repositories
 
-- **[Trading Bot (Python)](https://github.com/NuvaGit/trading-bot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
+- **[Trading Bot (Python)](https://github.com/NuvaGit/TradingBot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
   
-- **[E-commerce Store (Spring Boot)](https://github.com/NuvaGit/e-commerce-store)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
+- **[E-commerce Store (Spring Boot)](https://github.com/NuvaGit/EcommerceSoringBoot)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
 
 ---
 
