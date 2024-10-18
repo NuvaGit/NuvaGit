@@ -1,8 +1,8 @@
 # 👨‍💻 Jack Neilan
 
-**`Tech Enthusiast | Full-Stack Developer | Future Finance Leader`**
+**`🌐 Tech Enthusiast | 💻 Full-Stack Developer | 📊 Future Finance Leader`**
 
-I am a passionate full-stack developer and data enthusiast, currently pursuing my Computer Science degree at University College Dublin. With a deep interest in technology and investment banking, I leverage my coding and data skills to drive innovation and build solutions to real-world problems. Below are some of my featured projects and repositories, including an automated **Trigger Bot** and a **Quest Game** built with Java Swing. These projects reflect my passion for programming and problem-solving.
+I'm a passionate full-stack developer and data enthusiast, currently studying Computer Science at **University College Dublin** 🎓. My interests lie at the intersection of **technology** and **investment banking**, and I enjoy using my coding skills to create innovative solutions. I build tools that automate processes and solve real-world problems. Below are some of my highlighted projects, ranging from automated bots to full-featured Java games! 🛠️
 
 <p align="left">
    <a href="https://github.com/NuvaGit">
@@ -16,28 +16,43 @@ I am a passionate full-stack developer and data enthusiast, currently pursuing m
 
 ---
 
-### 🔥 Featured Projects
+### 🚀 Featured Projects
+
+- 📈 [Trading Bot (Python)](https://github.com/NuvaGit/TradingBot):  
+  **Automated Stock Trader** – A Python-based bot that uses the **Alpaca API** and machine learning to predict stock prices and perform live trades automatically. 📉💰
+
+- 🛒 [E-commerce Store (Spring Boot)](https://github.com/NuvaGit/EcommerceSoringBoot):  
+  **Full-Stack Store** – A Spring Boot e-commerce platform with user authentication, product management dashboard, and an integrated MySQL database. 🎯🛍️
+
 ---
-- 📊 [Trading Bot (Python)](https://github.com/NuvaGit/TradingBot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
-  
-- 📊 [E-commerce Store (Spring Boot)](https://github.com/NuvaGit/EcommerceSoringBoot)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
 
 ### 📚 Other Repositories
 
-#### 🎯 [Trigger Bot](https://github.com/NuvaGit/triggerbot)
+- 🎯 [Trigger Bot (Python)](https://github.com/NuvaGit/triggerbot):  
+  An automated **color detection bot** that scans specific areas of the screen and triggers mouse clicks based on detected colors. Includes hotkey toggling and audio feedback. 🖱️🎨
 
-An automated bot that scans for specific pixel colors on the screen and triggers mouse clicks when the target color is detected. The bot includes a hotkey to toggle its activation and provides sound feedback when toggled on or off.
-
-#### 🗝️ [Quest Game (Java Swing)](https://github.com/NuvaGit/QuestGame)
-
-A fully interactive GUI-based game built with Java Swing, where players must navigate through challenges to find a key and unlock a chest. Developed using object-oriented programming principles to ensure scalability and modularity.
-### 📊 Stats
-
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuvaGit&show_icons=true&theme=gruvbox)
+- 🗝️ [Quest Game (Java Swing)](https://github.com/NuvaGit/QuestGame):  
+  A **GUI-based adventure game** where players must solve puzzles to find a key and unlock a chest. Built using **Java Swing** with OOP principles to ensure scalability. 🧩🏆
 
 ---
 
-### 🔗 Let's Connect
+### 📊 GitHub Stats
 
-[<img src="https://img.shields.io/badge/GitHub-Portfolio-333?style=for-the-badge&logo=github" />](https://github.com/NuvaGit)
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/jack-neilan-3203a0242/)
+![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuvaGit&show_icons=true&theme=gruvbox)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuvaGit&layout=compact&theme=gruvbox) -->
+
+---
+
+### 🌐 Let's Connect!
+
+Feel free to connect with me via **GitHub** or **LinkedIn**. I’m always open to collaboration and new opportunities! Let's build something great together. 🚀
+
+<p align="left">
+   <a href="https://github.com/NuvaGit">
+      <img alt="GitHub Portfolio" title="GitHub Portfolio" src="https://img.shields.io/badge/GitHub-Portfolio-333?style=for-the-badge&logo=github"/>
+   </a>
+   <a href="https://www.linkedin.com/in/jack-neilan-3203a0242/">
+      <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+   </a>
+</p>
+
