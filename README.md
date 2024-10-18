@@ -17,6 +17,12 @@ I am a passionate full-stack developer and data enthusiast, currently pursuing m
 ---
 
 ### 🔥 Featured Projects
+---
+- **[Trading Bot (Python)](https://github.com/NuvaGit/TradingBot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
+  
+- **[E-commerce Store (Spring Boot)](https://github.com/NuvaGit/EcommerceSoringBoot)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
+
+### 📚 Other Repositories
 
 #### 🎯 [Trigger Bot](https://github.com/NuvaGit/triggerbot)
 
@@ -25,17 +31,6 @@ An automated bot that scans for specific pixel colors on the screen and triggers
 #### 🗝️ [Quest Game (Java Swing)](https://github.com/NuvaGit/QuestGame)
 
 A fully interactive GUI-based game built with Java Swing, where players must navigate through challenges to find a key and unlock a chest. Developed using object-oriented programming principles to ensure scalability and modularity.
-
----
-
-### 📚 Other Repositories
-
-- **[Trading Bot (Python)](https://github.com/NuvaGit/TradingBot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
-  
-- **[E-commerce Store (Spring Boot)](https://github.com/NuvaGit/EcommerceSoringBoot)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
-
----
-
 ### 📊 Stats
 
 ![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuvaGit&show_icons=true&theme=gruvbox)
