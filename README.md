@@ -1,8 +1,8 @@
 # 👨‍💻 Jack Neilan
 
-**`Tech Enthusiast | Future Tech & Finance Leader`**
+**`Tech Enthusiast | Full-Stack Developer | Future Finance Leader`**
 
-I am a passionate full-stack developer and data enthusiast, currently pursuing my Computer Science degree at University College Dublin. With a deep interest in technology and investment banking, I thrive on leveraging data insights and coding skills to drive growth and innovation. I have developed several projects, including trading bots and e-commerce applications, and have gained valuable experience from internships at Kerry Group and Canada Life. My journey is fueled by a commitment to continuous learning, personal growth, and delivering tangible results for stakeholders.
+I am a passionate full-stack developer and data enthusiast, currently pursuing my Computer Science degree at University College Dublin. With a deep interest in technology and investment banking, I leverage my coding and data skills to drive innovation and build solutions to real-world problems. Below are some of my featured projects and repositories, including an automated **Trigger Bot** and a **Quest Game** built with Java Swing. These projects reflect my passion for programming and problem-solving.
 
 <p align="left">
    <a href="https://github.com/NuvaGit">
@@ -16,30 +16,31 @@ I am a passionate full-stack developer and data enthusiast, currently pursuing m
 
 ---
 
-### 🛠️ Languages and Tools
+### 🔥 Featured Projects
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<br/>
+#### 🎯 [Trigger Bot](https://github.com/NuvaGit/trigger-bot)
 
-#
+An automated bot that scans for specific pixel colors on the screen and triggers mouse clicks when the target color is detected. The bot includes a hotkey to toggle its activation and provides sound feedback when toggled on or off.
 
-### 📈 Projects
+#### 🗝️ [Quest Game (Java Swing)](https://github.com/NuvaGit/quest-game)
 
-- **Trading Bot (Python, Alpaca API)**: Automated stock trading bot using machine learning to predict stock price movements and multi-threaded live trading.
-- **E-commerce Store**: Full-stack Spring Boot application with MySQL, user authentication, and admin dashboard for managing products.
+A fully interactive GUI-based game built with Java Swing, where players must navigate through challenges to find a key and unlock a chest. Developed using object-oriented programming principles to ensure scalability and modularity.
 
-#
+---
+
+### 📚 Other Repositories
+
+- **[Trading Bot (Python)](https://github.com/NuvaGit/trading-bot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
+  
+- **[E-commerce Store (Spring Boot)](https://github.com/NuvaGit/e-commerce-store)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
+
+---
+
+### 📊 Stats
+
+![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuvaGit&show_icons=true&theme=gruvbox)
+
+---
 
 ### 🔗 Let's Connect
 
