@@ -18,9 +18,9 @@ I am a passionate full-stack developer and data enthusiast, currently pursuing m
 
 ### 🔥 Featured Projects
 ---
-- **[Trading Bot (Python)](https://github.com/NuvaGit/TradingBot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
+- 📊 [Trading Bot (Python)](https://github.com/NuvaGit/TradingBot)**: A Python-based stock trading bot that uses the Alpaca API and machine learning to predict stock price movements and automate live trades.
   
-- **[E-commerce Store (Spring Boot)](https://github.com/NuvaGit/EcommerceSoringBoot)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
+- 📊 [E-commerce Store (Spring Boot)](https://github.com/NuvaGit/EcommerceSoringBoot)**: A full-stack e-commerce application built with Spring Boot, MySQL, and Thymeleaf, featuring user authentication and an admin dashboard for product management.
 
 ### 📚 Other Repositories
 
