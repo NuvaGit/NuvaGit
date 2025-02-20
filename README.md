@@ -38,10 +38,12 @@ I'm a passionate full-stack developer and data enthusiast, currently studying Co
 
 ### 📊 GitHub Stats
 
-![Jack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuvaGit&show_icons=true&theme=gruvbox)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuvaGit&layout=compact&theme=gruvbox) -->
+<a href="https://github.com/NuvaGit/github-stats">
+<img src="https://github.com/NuvaGit/NuvaGit/blob/master/generated/overview.svg" />
+<img src="https://github.com/NuvaGit/NuvaGit/blob/master/generated/languages.svg" />
+</a>
 
----
+![aliencaocao's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliencaocao&count_private=true&show_icons=true)
 
 ### 🌐 Let's Connect!
 
