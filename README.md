@@ -36,7 +36,6 @@ I'm a passionate full-stack developer and data enthusiast, currently studying Co
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
