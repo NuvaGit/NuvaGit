@@ -47,13 +47,13 @@ I'm a passionate full-stack developer and data enthusiast, currently studying Co
 ### 🌐 Let's Connect!
 
 Feel free to connect with me via **GitHub** or **LinkedIn**. I’m always open to collaboration and new opportunities! Let's build something great together. 🚀
+https://nuvagit.github.io/JackS-Portfolio/
 
 <p align="left">
    <a href="https://github.com/NuvaGit">
-      <img alt="GitHub Portfolio" title="GitHub Portfolio" src=["https://img.shields.io/badge/GitHub-Portfolio-333?style=for-the-badge&logo=github](https://nuvagit.github.io/JackS-Portfolio/)"/>
+      <img alt="GitHub Portfolio" title="GitHub Portfolio" src="https://img.shields.io/badge/GitHub-Portfolio-333?style=for-the-badge&logo=github"/>
    </a>
    <a href="https://www.linkedin.com/in/jack-neilan-3203a0242/">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
    </a>
 </p>
-
