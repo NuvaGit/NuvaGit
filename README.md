@@ -50,7 +50,7 @@ Feel free to connect with me via **GitHub** or **LinkedIn**. I’m always open t
 
 <p align="left">
    <a href="https://github.com/NuvaGit">
-      <img alt="GitHub Portfolio" title="GitHub Portfolio" src="https://img.shields.io/badge/GitHub-Portfolio-333?style=for-the-badge&logo=github"/>
+      <img alt="GitHub Portfolio" title="GitHub Portfolio" src=["https://img.shields.io/badge/GitHub-Portfolio-333?style=for-the-badge&logo=github](https://nuvagit.github.io/JackS-Portfolio/)"/>
    </a>
    <a href="https://www.linkedin.com/in/jack-neilan-3203a0242/">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
