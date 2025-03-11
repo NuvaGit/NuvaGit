@@ -2,49 +2,29 @@
 
 **`🌐 Tech Enthusiast | 💻 Full-Stack Developer | 📊 Future Finance Leader`**
 
-<!-- Animated Title -->
+<!-- Animated Header (Note: Inline CSS may be stripped by GitHub) -->
 <div align="center">
   <h1 style="font-size: 3em; margin-bottom: 0; animation: glow 1.5s ease-in-out infinite alternate;">Jack Neilan</h1>
   <p style="font-size: 1.2em; animation: fadeIn 3s ease-out;">Innovating at the intersection of technology and finance</p>
 </div>
 
-<!-- Inline CSS Animations (GitHub may limit custom styles; if so, consider embedding animated GIFs instead) -->
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff1177; }
-  to { text-shadow: 0 0 20px #fff, 0 0 30px #ff1177, 0 0 40px #ff1177; }
-}
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-.marquee {
-  overflow: hidden;
-  white-space: nowrap;
-  box-sizing: border-box;
-  animation: marquee 15s linear infinite;
-}
-@keyframes marquee {
-  0%   { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
+<!-- If inline CSS is not supported, consider using animated GIFs instead. -->
 
 <!-- Animated Marquee -->
-<div class="marquee">
+<div class="marquee" style="overflow: hidden; white-space: nowrap; box-sizing: border-box; animation: marquee 15s linear infinite;">
   <p style="font-size:1.5em; text-align: center; margin: 20px 0;">Welcome to my cool space of code, innovation, and creativity! 🚀</p>
 </div>
 
 <p align="left">
-   <a href="https://github.com/NuvaGit">
-      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NuvaGit?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/NuvaGit?tab=repositories">
-      <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NuvaGit?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
-   <a href="https://www.linkedin.com/in/jack-neilan-3203a0242/">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-   </a>
+  <a href="https://github.com/NuvaGit">
+    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NuvaGit?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/NuvaGit?tab=repositories">
+    <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NuvaGit?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jack-neilan-3203a0242/">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 ---
@@ -66,6 +46,16 @@
 
 - 🗝️ **[Quest Game (Java Swing)](https://github.com/NuvaGit/QuestGame)**  
   A GUI-based adventure game where players solve puzzles to locate a key and unlock a chest. Built using **Java Swing** and OOP principles. 🧩🏆
+
+---
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -91,12 +81,10 @@
 
 ### 🌐 Let's Connect!
 
-Feel free to reach out via **GitHub** or **LinkedIn**. I’m always up for collaboration and new opportunities! Let's build something extraordinary together. 🚀
+Feel free to reach out via **GitHub** or **LinkedIn**. I’m always up for collaboration and new opportunities—let’s build something extraordinary together! 🚀
 
 [GitHub Portfolio](https://github.com/NuvaGit) | [LinkedIn](https://www.linkedin.com/in/jack-neilan-3203a0242/)
 
----
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" style="width:50%;"/>
-</div>
+
+
