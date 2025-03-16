@@ -47,15 +47,7 @@
 - 🗝️ **[Quest Game (Java Swing)](https://github.com/NuvaGit/QuestGame)**  
   A GUI-based adventure game where players solve puzzles to locate a key and unlock a chest. Built using **Java Swing** and OOP principles. 🧩🏆
 
----
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
@@ -85,6 +77,13 @@ Feel free to reach out via **GitHub** or **LinkedIn**. I’m always up for colla
 
 [GitHub Portfolio](https://github.com/NuvaGit) | [LinkedIn](https://www.linkedin.com/in/jack-neilan-3203a0242/)
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 
