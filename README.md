@@ -63,7 +63,7 @@
 
 <div align="center">
   <a href="https://nuvagit.github.io/JackS-Portfolio/">
-    <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Animated Portfolio Header" style="width:80%; border-radius: 10px; box-shadow: 0 0 20px rgba(0,0,0,0.5);"/>
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
   </a>
 </div>
 <p align="center"><em>Explore my personal site for more projects and cool animations!</em></p>
