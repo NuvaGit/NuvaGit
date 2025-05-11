@@ -16,12 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NuvaGit&theme=react-dark&custom_title=Contribution%20Graph&hide_border=true&radius=8&area=true&bg_color=0d1117&line=58a6ff&point=58a6ff&color=58a6ff" width="100%" alt="Contribution Graph" />
-
-
 
 ### 🚀 Featured Projects
 
@@ -40,21 +34,7 @@
   A GUI-based adventure game where players solve puzzles to locate a key and unlock a chest. Built using **Java Swing** and OOP principles. 🧩🏆
 
 ---
-
-### 💻 Skills & Languages
-
-<!-- Animated skills section with glowing icons -->
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NuvaGit&theme=react" width="32%" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NuvaGit&theme=react" width="32%" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NuvaGit&theme=react&utcOffset=0" width="32%" height="180em" />
-</div>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NuvaGit&no-frame=true&column=7&theme=nord&margin-w=15&margin-h=15" width="100%" />
-</p>
+### 📊 GitHub Activities:
 
 <div align="center">
   <picture>
@@ -64,7 +44,26 @@
   </picture>
 </div>
 
----
+<p align="center">
+  <a href="https://github.com/NuvaGit?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NuvaGit&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@NuvaGit's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/NuvaGit?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NuvaGit&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@NuvaGit's github-readme-streak-stats"/>
+  </a>
+</p>
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@NuvaGit">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuvaGit&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuvaGit&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/NuvaGit?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=NuvaGit&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@NuvaGit's trophy stats"/>
+  </a>
+</div>
 
 ### 🌐 My Personal Site
 
@@ -90,11 +89,7 @@ Feel free to reach out via **GitHub** or **LinkedIn**. I'm always up for collabo
 [GitHub Portfolio](https://github.com/NuvaGit) | [LinkedIn](https://www.linkedin.com/in/jack-neilan-3203a0242/)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+
 
 
 <div align="center">
